@@ -3,7 +3,9 @@
 This is a sample Unity project showing simple island generation using 'cellular automata'. 
 
 ## Assets
-It uses [Marsh Davies'](https://twitter.com/MarshDavies) 2015 PROCJAM Art Pack, which you can get for FREE at http://www.procjam.com/2015/09/procjam-art-pack-now-available/. 
+It uses [Marsh Davies'](https://twitter.com/MarshDavies) 2015 PROCJAM Art Pack.
+
+You can get the art pack for FREE at http://www.procjam.com/2015/09/procjam-art-pack-now-available/. 
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
@@ -12,7 +14,6 @@ The art is licensed under a Creative Commons BY-NC license, more info here: http
 ## Screenshots
 
 ![Screenshot1](http://i.imgur.com/50N5FNC.png)
-![Screenshot2](http://i.imgur.com/50N5FNC.png)
 
 ## Controls
 
