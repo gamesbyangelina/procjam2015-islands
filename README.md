@@ -17,7 +17,7 @@ The art is licensed under a Creative Commons BY-NC license, more info here: http
 
 ## Controls
 
-Press R to regenerate islands, and the arrow keys to move around. The code isn't super well-documented so this is probably aimed slightly towards people who have worked in Unity before. Hopefully it's useful to someone starting off in procedural generation!
+Press `R` to regenerate islands, and the arrow keys to move around. The code isn't super well-documented so this is probably aimed slightly towards people who have worked in Unity before. Hopefully it's useful to someone starting off in procedural generation!
 
 ## Join PROCJAM
 
